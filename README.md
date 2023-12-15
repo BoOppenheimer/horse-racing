@@ -2,12 +2,12 @@
 
 Horse betting!
 
-4 numbers go in random order of who wins
-take for example
+4 numbers go in random order of who wins  
+take for example:
 1,2,3,4
 
 next race is:  
-3, 4, 1, 2
+3,4,1,2
 
 ### TODOs
 
