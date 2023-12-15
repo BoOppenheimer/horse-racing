@@ -1,4 +1,4 @@
-# MidTerm
+# Horse Betting Game in terminal
 
 Horse betting!
 
@@ -6,13 +6,8 @@ Horse betting!
 take for example
 1,2,3,4
 
-next race is 
-
+next race is:  
 3, 4, 1, 2
-
-
-
-### docs are here [link](https://docs.google.com/document/d/1-uC1-XWcVKorKUTD82ynqgUaAPA9uT9tl4v8P-YiMSw/edit#heading=h.yyiqzlewzn6g)
 
 ### TODOs
 
